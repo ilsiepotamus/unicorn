@@ -1,1 +1,6 @@
 environment: AWS
+instance_type: m5.4xlarge
+instance_count: 1
+vpc_id: vpc-1ebf5b78
+subnet_id: subnet-0a87e44b886729fb5
+region: us-west-2
